@@ -1,4 +1,4 @@
-![Moulen](https://github.com/Mohammed-A-F/Moulen/blob/design/cover-page.png?raw=true)
+![Moulen](https://github.com/Mohammed-A-F/Moulen/design/cover-page.png?raw=true)
 
 
 # What is Moulen. 🤔
