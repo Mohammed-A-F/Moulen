@@ -1,4 +1,4 @@
-![Moulen](https://github.com/Mohammed-A-F/Moulen/design/cover-page.png?raw=true)
+![Moulen](/design/cover-page.png?raw=true)
 
 # What is Moulen. 🤔
 Moulen is an AI advertising board that detect the gender and age of a person and shows the best-fit commercial ad.
