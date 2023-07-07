@@ -25,3 +25,5 @@ It uses pre-trained models that were trained on large datasets to detect the fac
 
 # Target Customers. 🎯
 All companies, event owners, and anyone who would like to use more targeted ads.
+
+![Moulen](/design/logo.png?raw=true)
